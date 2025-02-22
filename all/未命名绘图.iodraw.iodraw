@@ -238,7 +238,7 @@
         <mxCell id="sh6OddcMxeaU8JYVd5-J-91" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;size=0.5;" vertex="1" parent="1">
           <mxGeometry x="240" y="360.75" width="12.5" height="60.5" as="geometry" />
         </mxCell>
-        <mxCell id="sh6OddcMxeaU8JYVd5-J-92" value="&lt;font face=&quot;Times New Roman&quot;&gt;padding=2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="sh6OddcMxeaU8JYVd5-J-92" value="&lt;font face=&quot;Times New Roman&quot;&gt;cropping&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="211.88" y="391.25" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
