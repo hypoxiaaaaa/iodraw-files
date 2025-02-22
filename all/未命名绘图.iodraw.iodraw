@@ -215,7 +215,7 @@
           <mxGeometry x="324" y="104" width="12.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sh6OddcMxeaU8JYVd5-J-78" value="&lt;font face=&quot;Times New Roman&quot;&gt;padding=2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="66.25" y="115" width="70" height="30" as="geometry" />
+          <mxGeometry x="195" y="215" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
