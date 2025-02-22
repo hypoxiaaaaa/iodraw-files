@@ -235,8 +235,8 @@
         <mxCell id="sh6OddcMxeaU8JYVd5-J-89" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 9px; background-color: rgb(255, 255, 255);&quot;&gt;Length of Time Series = 6&lt;/span&gt;" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="276.88" y="386" width="180" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="sh6OddcMxeaU8JYVd5-J-91" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;size=0.5;" vertex="1" parent="1">
-          <mxGeometry x="243.63" y="370" width="12.5" height="60.5" as="geometry" />
+        <mxCell id="sh6OddcMxeaU8JYVd5-J-91" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="240" y="360.75" width="12.5" height="60.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
