@@ -202,8 +202,8 @@
             <mxPoint x="400" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sh6OddcMxeaU8JYVd5-J-74" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="75" y="98" width="50" height="30" as="geometry" />
+        <mxCell id="sh6OddcMxeaU8JYVd5-J-74" value="&lt;font face=&quot;Times New Roman&quot;&gt;padding=2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="110" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
