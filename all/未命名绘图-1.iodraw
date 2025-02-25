@@ -194,6 +194,9 @@
         <mxCell id="xMcXO-oQUi1wrMtpwuwO-6" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="180" y="1720" width="147.5" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="xMcXO-oQUi1wrMtpwuwO-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;加权求和得到输出&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="114.38" y="1710" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
