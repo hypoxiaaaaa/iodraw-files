@@ -161,7 +161,7 @@
         <mxCell id="r4s9k-XFhDX6ve1l1U17-66" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;glass=0;opacity=30;shadow=0;gradientColor=none;gradientDirection=east;strokeWidth=4;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="1670" width="600" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="r4s9k-XFhDX6ve1l1U17-68" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;最终输出&lt;/font&gt;" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e8dad9;strokeColor=#ae4132;" vertex="1" parent="1">
+        <mxCell id="r4s9k-XFhDX6ve1l1U17-68" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;最终输出&lt;/font&gt;" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="920" y="1670" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r4s9k-XFhDX6ve1l1U17-71" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 38px;&quot;&gt;+&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
