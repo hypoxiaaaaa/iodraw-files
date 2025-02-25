@@ -186,7 +186,7 @@
           <mxGeometry x="828.75" y="1563.75" width="147.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xMcXO-oQUi1wrMtpwuwO-4" value="计算相关性分数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="845" y="1398" width="110" height="30" as="geometry" />
+          <mxGeometry x="900" y="1398.75" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
