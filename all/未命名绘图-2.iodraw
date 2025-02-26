@@ -477,19 +477,13 @@
         <mxCell id="nvPpdif6ZQ4o1LAJXpm--171" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=west;" vertex="1" parent="1">
           <mxGeometry x="323" y="1871" width="7" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="nvPpdif6ZQ4o1LAJXpm--236" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="326" y="1884" as="sourcePoint" />
-            <mxPoint x="330" y="1886.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="nvPpdif6ZQ4o1LAJXpm--237" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="1930" as="sourcePoint" />
-            <mxPoint x="370" y="1880" as="targetPoint" />
+            <mxPoint x="280" y="1887" as="sourcePoint" />
+            <mxPoint x="330" y="1887" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="370" y="1930" />
-              <mxPoint x="320" y="1880" />
+              <mxPoint x="330" y="1887" />
+              <mxPoint x="280" y="1837" />
             </Array>
           </mxGeometry>
         </mxCell>
