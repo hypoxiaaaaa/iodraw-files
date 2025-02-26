@@ -962,13 +962,13 @@
           <mxGeometry x="597" y="2951" width="183" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nvPpdif6ZQ4o1LAJXpm--582" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="610" y="2904" width="21" height="46" as="geometry" />
+          <mxGeometry x="610" y="2904" width="21" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nvPpdif6ZQ4o1LAJXpm--577" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#FEFAE0;fillColor=#ffe599;direction=south;" vertex="1" parent="nvPpdif6ZQ4o1LAJXpm--582">
           <mxGeometry width="21" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nvPpdif6ZQ4o1LAJXpm--576" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#ffffff;" vertex="1" parent="nvPpdif6ZQ4o1LAJXpm--582">
-          <mxGeometry x="1" y="0.5" width="20" height="20" as="geometry" />
+          <mxGeometry x="1" y="0.391304347826087" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nvPpdif6ZQ4o1LAJXpm--583" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="644" y="2898" width="21" height="46" as="geometry" />
