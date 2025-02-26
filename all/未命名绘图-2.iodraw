@@ -958,11 +958,8 @@
         <mxCell id="nvPpdif6ZQ4o1LAJXpm--575" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;层次化自适应注意力聚合&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="627" y="3010" width="183" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nvPpdif6ZQ4o1LAJXpm--577" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#FEFAE0;fillColor=#ffe599;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="639" y="2922.5" width="21" height="46" as="geometry" />
-        </mxCell>
         <mxCell id="nvPpdif6ZQ4o1LAJXpm--578" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#FEFAE0;fillColor=#f19c99;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="680" y="2923" width="21" height="46" as="geometry" />
+          <mxGeometry x="680" y="2920" width="21" height="46" as="geometry" />
         </mxCell>
         <mxCell id="nvPpdif6ZQ4o1LAJXpm--579" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#FEFAE0;fillColor=#a680b8;direction=south;" vertex="1" parent="1">
           <mxGeometry x="748.24" y="2920" width="21" height="46" as="geometry" />
@@ -970,11 +967,17 @@
         <mxCell id="nvPpdif6ZQ4o1LAJXpm--580" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#FEFAE0;fillColor=#c73500;direction=south;" vertex="1" parent="1">
           <mxGeometry x="780" y="2920" width="21" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="nvPpdif6ZQ4o1LAJXpm--576" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="640" y="2923" width="20" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="nvPpdif6ZQ4o1LAJXpm--581" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="681" y="2923" width="20" height="20" as="geometry" />
+          <mxGeometry x="680" y="2920" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nvPpdif6ZQ4o1LAJXpm--582" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="639" y="2922.5" width="21" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="nvPpdif6ZQ4o1LAJXpm--577" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#FEFAE0;fillColor=#ffe599;direction=south;" vertex="1" parent="nvPpdif6ZQ4o1LAJXpm--582">
+          <mxGeometry width="21" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="nvPpdif6ZQ4o1LAJXpm--576" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#ffffff;" vertex="1" parent="nvPpdif6ZQ4o1LAJXpm--582">
+          <mxGeometry x="1" y="0.5" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
