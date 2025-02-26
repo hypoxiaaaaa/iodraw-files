@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="hz3c-wJZN7rXDmnESLqn">
-    <mxGraphModel dx="1572" dy="-601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1259" dy="-840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -928,6 +928,9 @@
         <mxCell id="nvPpdif6ZQ4o1LAJXpm--567" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=#fa6800;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
           <mxGeometry x="1105" y="2670" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="nvPpdif6ZQ4o1LAJXpm--589" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;" edge="1" parent="1" source="nvPpdif6ZQ4o1LAJXpm--569" target="nvPpdif6ZQ4o1LAJXpm--579">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nvPpdif6ZQ4o1LAJXpm--569" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;&lt;span style=&quot;background-color: initial; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-weight: bold;&quot;&gt;高阶跨尺度注意力&lt;br&gt;交通信息集成&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-weight: bold;&quot;&gt;HCAF&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="2791.5" width="183" height="90" as="geometry" />
         </mxCell>
@@ -956,7 +959,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nvPpdif6ZQ4o1LAJXpm--575" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;层次化自适应注意力聚合&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="627" y="3010" width="183" height="50" as="geometry" />
+          <mxGeometry x="620" y="2945" width="183" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nvPpdif6ZQ4o1LAJXpm--582" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="633" y="2899" width="21" height="46" as="geometry" />
