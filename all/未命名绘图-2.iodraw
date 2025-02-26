@@ -961,7 +961,7 @@
         <mxCell id="nvPpdif6ZQ4o1LAJXpm--576" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fillColor=#ffcd28;strokeColor=#FFE599;gradientColor=#ffa500;" vertex="1" parent="1">
           <mxGeometry x="660" y="2919" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nvPpdif6ZQ4o1LAJXpm--577" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;direction=south;" vertex="1" parent="1">
+        <mxCell id="nvPpdif6ZQ4o1LAJXpm--577" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#FEFAE0;fillColor=#BC6C25;direction=south;" vertex="1" parent="1">
           <mxGeometry x="650" y="2944" width="21" height="46" as="geometry" />
         </mxCell>
         <mxCell id="nvPpdif6ZQ4o1LAJXpm--578" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;direction=south;" vertex="1" parent="1">
@@ -971,7 +971,7 @@
           <mxGeometry x="708" y="2944" width="21" height="46" as="geometry" />
         </mxCell>
         <mxCell id="nvPpdif6ZQ4o1LAJXpm--580" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="736" y="2941.5" width="21" height="46" as="geometry" />
+          <mxGeometry x="736" y="2944" width="21" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
