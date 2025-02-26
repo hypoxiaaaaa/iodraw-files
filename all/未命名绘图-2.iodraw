@@ -934,8 +934,8 @@
         <mxCell id="nvPpdif6ZQ4o1LAJXpm--567" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=#fa6800;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
           <mxGeometry x="1105" y="2670" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nvPpdif6ZQ4o1LAJXpm--569" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;" vertex="1" parent="1">
-          <mxGeometry x="660" y="3039" width="120" height="60" as="geometry" />
+        <mxCell id="nvPpdif6ZQ4o1LAJXpm--569" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-weight: bold;&quot;&gt;高阶跨尺度注意力信息集成模块 &lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 12pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-weight: bold;&quot;&gt;HCAF&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="677" y="2880" width="120" height="211" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
