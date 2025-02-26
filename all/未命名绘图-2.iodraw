@@ -595,7 +595,7 @@
           <mxGeometry x="34.12175000000002" y="10" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nvPpdif6ZQ4o1LAJXpm--393" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="nvPpdif6ZQ4o1LAJXpm--276">
-          <mxGeometry x="240" y="99" width="20" height="20" as="geometry" />
+          <mxGeometry x="248" y="101" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nvPpdif6ZQ4o1LAJXpm--282" value="" style="group;aspect=fixed;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="560" y="2505" width="188.24" height="60" as="geometry" />
