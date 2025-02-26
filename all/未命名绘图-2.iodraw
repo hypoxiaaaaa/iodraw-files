@@ -252,7 +252,7 @@
         <mxCell id="nvPpdif6ZQ4o1LAJXpm--110" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a4c2f4;labelBorderColor=none;labelBackgroundColor=none;glass=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="456" y="1680" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nvPpdif6ZQ4o1LAJXpm--112" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;门控时间卷积&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Gate-TCN&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=none;labelBackgroundColor=none;textShadow=0;" vertex="1" parent="1">
+        <mxCell id="nvPpdif6ZQ4o1LAJXpm--112" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Gate-TCN&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;门控时间卷积&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=none;labelBackgroundColor=none;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="235.00175000000002" y="1675" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nvPpdif6ZQ4o1LAJXpm--113" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f4cccc;labelBorderColor=none;labelBackgroundColor=none;glass=1;shadow=0;" vertex="1" parent="1">
