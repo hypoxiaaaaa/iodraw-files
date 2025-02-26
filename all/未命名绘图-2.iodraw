@@ -303,6 +303,12 @@
         <mxCell id="nvPpdif6ZQ4o1LAJXpm--117" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cloud;" vertex="1" parent="1">
           <mxGeometry x="80" y="1405" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="nvPpdif6ZQ4o1LAJXpm--118" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.sun;pointerEvents=1" vertex="1" parent="1">
+          <mxGeometry x="150" y="1450" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nvPpdif6ZQ4o1LAJXpm--119" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.umbrella;" vertex="1" parent="1">
+          <mxGeometry x="81" y="1460" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
