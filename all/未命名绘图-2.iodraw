@@ -322,9 +322,9 @@
           <mxGeometry x="626" y="2353" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nvPpdif6ZQ4o1LAJXpm--143" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="370" y="2170" width="140" height="78" as="geometry" />
+          <mxGeometry x="370" y="1850" width="140" height="398" as="geometry" />
         </mxCell>
-        <mxCell id="nvPpdif6ZQ4o1LAJXpm--144" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="nvPpdif6ZQ4o1LAJXpm--143" parent="1">
+        <mxCell id="nvPpdif6ZQ4o1LAJXpm--144" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" target="nvPpdif6ZQ4o1LAJXpm--143" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="2173" as="sourcePoint" />
           </mxGeometry>
