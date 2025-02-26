@@ -808,10 +808,10 @@
         <mxCell id="nvPpdif6ZQ4o1LAJXpm--402" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=#6a00ff;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="nvPpdif6ZQ4o1LAJXpm--362">
           <mxGeometry x="230" y="33" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nvPpdif6ZQ4o1LAJXpm--403" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=#a20025;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="nvPpdif6ZQ4o1LAJXpm--362">
+        <mxCell id="nvPpdif6ZQ4o1LAJXpm--403" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=#e3c800;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="nvPpdif6ZQ4o1LAJXpm--362">
           <mxGeometry x="230" y="55.5" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nvPpdif6ZQ4o1LAJXpm--404" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="nvPpdif6ZQ4o1LAJXpm--362">
+        <mxCell id="nvPpdif6ZQ4o1LAJXpm--404" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=#6d8764;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="nvPpdif6ZQ4o1LAJXpm--362">
           <mxGeometry x="230" y="78" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nvPpdif6ZQ4o1LAJXpm--370" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diagRev;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
