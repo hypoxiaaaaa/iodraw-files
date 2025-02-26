@@ -1380,10 +1380,13 @@
           <mxGeometry x="319" y="4085" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="nvPpdif6ZQ4o1LAJXpm--690" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="319" y="3836" width="290" height="380" as="geometry" />
+          <mxGeometry x="319" y="3836" width="383" height="496" as="geometry" />
         </mxCell>
         <mxCell id="nvPpdif6ZQ4o1LAJXpm--691" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="nvPpdif6ZQ4o1LAJXpm--690">
-          <mxGeometry width="290" height="380" as="geometry" />
+          <mxGeometry width="383" height="496" as="geometry" />
+        </mxCell>
+        <mxCell id="nvPpdif6ZQ4o1LAJXpm--764" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=grid;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;strokeWidth=2;dashed=1;" vertex="1" parent="nvPpdif6ZQ4o1LAJXpm--691">
+          <mxGeometry x="-29" y="-16" width="339" height="396" as="geometry" />
         </mxCell>
         <mxCell id="nvPpdif6ZQ4o1LAJXpm--692" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="nvPpdif6ZQ4o1LAJXpm--691">
           <mxGeometry width="210" height="103" as="geometry" />
@@ -1702,9 +1705,6 @@
               <mxPoint x="299" y="4135" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="nvPpdif6ZQ4o1LAJXpm--764" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=grid;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=none;strokeWidth=2;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="3631.5" width="412" height="512" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
