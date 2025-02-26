@@ -478,14 +478,8 @@
         <mxCell id="nvPpdif6ZQ4o1LAJXpm--231" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=west;" vertex="1" parent="nvPpdif6ZQ4o1LAJXpm--227">
           <mxGeometry y="65" width="10" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="nvPpdif6ZQ4o1LAJXpm--171" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="323" y="1871" width="7" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="nvPpdif6ZQ4o1LAJXpm--238" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=5;strokeWidth=0.3;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="301.5" y="1950" as="sourcePoint" />
-            <mxPoint x="310" y="1930" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="nvPpdif6ZQ4o1LAJXpm--246" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="374" y="1870" width="10" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
