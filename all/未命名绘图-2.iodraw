@@ -311,7 +311,7 @@
         </mxCell>
         <mxCell id="nvPpdif6ZQ4o1LAJXpm--144" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" target="nvPpdif6ZQ4o1LAJXpm--143" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="297" y="2173" as="sourcePoint" />
+            <mxPoint x="297" y="2214" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nvPpdif6ZQ4o1LAJXpm--147" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
@@ -319,7 +319,7 @@
         </mxCell>
         <mxCell id="nvPpdif6ZQ4o1LAJXpm--148" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="nvPpdif6ZQ4o1LAJXpm--147">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="309" y="2161" as="sourcePoint" />
+            <mxPoint x="313" y="2197" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nvPpdif6ZQ4o1LAJXpm--149" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
