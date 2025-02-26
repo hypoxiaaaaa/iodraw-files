@@ -298,8 +298,8 @@
         <mxCell id="nvPpdif6ZQ4o1LAJXpm--113" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f4cccc;labelBorderColor=none;labelBackgroundColor=none;glass=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="1680" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nvPpdif6ZQ4o1LAJXpm--116" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Gate-TCN&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=none;labelBackgroundColor=none;textShadow=1;" vertex="1" parent="1">
-          <mxGeometry x="437.65175" y="1675" width="100" height="30" as="geometry" />
+        <mxCell id="nvPpdif6ZQ4o1LAJXpm--116" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;时空耦合ODE网络&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=none;labelBackgroundColor=none;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="407.65175" y="1675" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
