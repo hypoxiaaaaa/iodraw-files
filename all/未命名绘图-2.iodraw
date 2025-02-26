@@ -1119,9 +1119,6 @@
             <mxPoint x="699" y="2951" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nvPpdif6ZQ4o1LAJXpm--618" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stripedArrow;dy=0.6;dx=40;notch=25;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="667.06" y="3101.25" width="42.88" height="67.5" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
