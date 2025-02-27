@@ -1728,7 +1728,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nvPpdif6ZQ4o1LAJXpm--775" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.7;dx=16.58;notch=0;strokeColor=none;fontColor=#FEFAE0;fillColor=#000000;fillStyle=auto;" vertex="1" parent="1">
-          <mxGeometry x="-220" y="3630" width="79" height="30" as="geometry" />
+          <mxGeometry x="-180" y="3630" width="39" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
