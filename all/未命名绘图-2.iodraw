@@ -1703,6 +1703,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="nvPpdif6ZQ4o1LAJXpm--767" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#FEFAE0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="3880" as="sourcePoint" />
+            <mxPoint x="900" y="3920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
