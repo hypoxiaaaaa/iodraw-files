@@ -1727,7 +1727,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nvPpdif6ZQ4o1LAJXpm--775" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#000000;fillStyle=cross-hatch;" vertex="1" parent="1">
+        <mxCell id="nvPpdif6ZQ4o1LAJXpm--775" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;strokeColor=none;fontColor=#FEFAE0;fillColor=#000000;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="-241" y="3630" width="100" height="70" as="geometry" />
         </mxCell>
       </root>
