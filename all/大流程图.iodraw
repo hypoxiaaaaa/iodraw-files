@@ -32,7 +32,7 @@
           <mxGeometry x="-380" y="190" width="380" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-16" value="研究背景与意义" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
-          <mxGeometry x="-790" y="-30" width="100" height="60" as="geometry" />
+          <mxGeometry x="-795" y="-15" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-17" value="国内外研究现状" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="-605" y="-170" width="70" height="60" as="geometry" />
@@ -204,6 +204,9 @@
         </mxCell>
         <mxCell id="dYjBStF2WvQ0KFqMAK-T-5" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;绪论&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#eeeeee;strokeColor=#36393d;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-960" y="490" width="80" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="dYjBStF2WvQ0KFqMAK-T-6" value="国内外研究现状" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="-15" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
