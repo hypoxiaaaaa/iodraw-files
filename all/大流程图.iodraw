@@ -35,7 +35,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-16" value="研究背景与意义" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="-795" y="-15" width="100" height="60" as="geometry" />
+          <mxGeometry x="-795" y="-15" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-17" value="国内外研究现状" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="-605" y="-170" width="70" height="60" as="geometry" />
@@ -209,25 +209,28 @@
           <mxGeometry x="-960" y="490" width="80" height="280" as="geometry" />
         </mxCell>
         <mxCell id="dYjBStF2WvQ0KFqMAK-T-6" value="国内外研究现状" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-650" y="-15" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dYjBStF2WvQ0KFqMAK-T-7" value="外部环境" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-470" y="15" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="dYjBStF2WvQ0KFqMAK-T-8" value="统计学习" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;flipH=1;flipV=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-550" y="-15" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="dYjBStF2WvQ0KFqMAK-T-9" value="深度学习" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-550" y="15" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="dYjBStF2WvQ0KFqMAK-T-10" value="机器学习" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;flipH=1;flipV=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-470" y="-15" width="80" height="30" as="geometry" />
+          <mxGeometry x="-605" y="-15" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dYjBStF2WvQ0KFqMAK-T-11" value="国内外研究现状" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="-915" y="-850" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dYjBStF2WvQ0KFqMAK-T-14" value="研究内容" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-345" y="-15" width="100" height="60" as="geometry" />
+          <mxGeometry x="-300" y="-15" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dYjBStF2WvQ0KFqMAK-T-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-505" y="-15" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dYjBStF2WvQ0KFqMAK-T-7" value="外部环境" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="dYjBStF2WvQ0KFqMAK-T-15">
+          <mxGeometry x="80" y="30" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dYjBStF2WvQ0KFqMAK-T-8" value="统计学习" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;flipH=1;flipV=1;fontSize=18;" vertex="1" parent="dYjBStF2WvQ0KFqMAK-T-15">
+          <mxGeometry width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dYjBStF2WvQ0KFqMAK-T-9" value="深度学习" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="dYjBStF2WvQ0KFqMAK-T-15">
+          <mxGeometry y="30" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dYjBStF2WvQ0KFqMAK-T-10" value="机器学习" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;flipH=1;flipV=1;fontSize=18;" vertex="1" parent="dYjBStF2WvQ0KFqMAK-T-15">
+          <mxGeometry x="80" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
