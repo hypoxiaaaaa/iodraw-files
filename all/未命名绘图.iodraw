@@ -223,7 +223,7 @@
         <mxCell id="sh6OddcMxeaU8JYVd5-J-80" value="Input&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="125" y="78" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sh6OddcMxeaU8JYVd5-J-81" value="输出" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=none;labelBackgroundColor=none;textShadow=0;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="sh6OddcMxeaU8JYVd5-J-81" value="&lt;font face=&quot;宋体&quot;&gt;输出&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=none;labelBackgroundColor=none;textShadow=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="451.88" y="356" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sh6OddcMxeaU8JYVd5-J-82" value="输入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;textShadow=0;labelBorderColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
