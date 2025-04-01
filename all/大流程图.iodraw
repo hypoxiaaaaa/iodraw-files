@@ -221,13 +221,13 @@
           <mxGeometry x="-800" y="100" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dYjBStF2WvQ0KFqMAK-T-9" value="深度学习" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="25" width="80" height="17" as="geometry" />
+          <mxGeometry x="-440" y="10" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dYjBStF2WvQ0KFqMAK-T-10" value="机器学习" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;flipH=1;flipV=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="5" width="80" height="20" as="geometry" />
+          <mxGeometry x="-440" y="-10" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dYjBStF2WvQ0KFqMAK-T-7" value="外部环境" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="48" width="80" height="22" as="geometry" />
+          <mxGeometry x="-440" y="30" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dYjBStF2WvQ0KFqMAK-T-8" value="统计学习" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;flipH=1;flipV=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-440" y="-30" width="80" height="20" as="geometry" />
