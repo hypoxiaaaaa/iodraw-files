@@ -23,7 +23,7 @@
           <mxGeometry x="-250" y="-110" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-14" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;" parent="1" vertex="1">
-          <mxGeometry x="-410" y="190" width="414" height="280" as="geometry" />
+          <mxGeometry x="-410" y="190" width="410" height="280" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-15" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;多模态信息融合的交通流预测&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="-375" y="200" width="380" height="80" as="geometry" />
