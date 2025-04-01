@@ -221,16 +221,16 @@
           <mxGeometry x="-454" y="-15" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dYjBStF2WvQ0KFqMAK-T-7" value="外部环境" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="dYjBStF2WvQ0KFqMAK-T-15">
-          <mxGeometry x="80" y="30" width="80" height="30" as="geometry" />
+          <mxGeometry x="80" y="35" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dYjBStF2WvQ0KFqMAK-T-8" value="统计学习" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;flipH=1;flipV=1;fontSize=18;" vertex="1" parent="dYjBStF2WvQ0KFqMAK-T-15">
           <mxGeometry y="-5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dYjBStF2WvQ0KFqMAK-T-9" value="深度学习" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="dYjBStF2WvQ0KFqMAK-T-15">
-          <mxGeometry y="30" width="80" height="30" as="geometry" />
+          <mxGeometry y="35" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dYjBStF2WvQ0KFqMAK-T-10" value="机器学习" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;flipH=1;flipV=1;fontSize=18;" vertex="1" parent="dYjBStF2WvQ0KFqMAK-T-15">
-          <mxGeometry x="80" width="80" height="30" as="geometry" />
+          <mxGeometry x="80" y="-5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dYjBStF2WvQ0KFqMAK-T-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dYjBStF2WvQ0KFqMAK-T-7" target="dYjBStF2WvQ0KFqMAK-T-14">
           <mxGeometry relative="1" as="geometry">
