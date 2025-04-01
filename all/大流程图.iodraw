@@ -14,10 +14,10 @@
           <mxGeometry x="-375" y="-140" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-7" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" parent="1" vertex="1">
-          <mxGeometry x="-840" y="180" width="370" height="340" as="geometry" />
+          <mxGeometry x="-1340" y="100" width="370" height="340" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-8" value="建模时空特性的交通流预测" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" parent="1" vertex="1">
-          <mxGeometry x="-840" y="180" width="370" height="80" as="geometry" />
+          <mxGeometry x="-1290" y="-80" width="370" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-11" value="微信网关" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="-250" y="-110" width="80" height="60" as="geometry" />
@@ -192,6 +192,12 @@
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-70" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;绪论&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="-840" y="-10" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dYjBStF2WvQ0KFqMAK-T-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="-840" y="190" width="380" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="dYjBStF2WvQ0KFqMAK-T-2" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;多模态信息融合的交通流预测&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="-840" y="190" width="380" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
