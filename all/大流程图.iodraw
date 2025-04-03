@@ -268,13 +268,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dYjBStF2WvQ0KFqMAK-T-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=15;" parent="1" source="dYjBStF2WvQ0KFqMAK-T-6" target="dYjBStF2WvQ0KFqMAK-T-7" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-431" y="15" />
-              <mxPoint x="-431" y="53" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="dYjBStF2WvQ0KFqMAK-T-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=15;" parent="1" source="dYjBStF2WvQ0KFqMAK-T-6" target="dYjBStF2WvQ0KFqMAK-T-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dYjBStF2WvQ0KFqMAK-T-6" value="国内外研究现状" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="-600" width="145" height="35" as="geometry" />
