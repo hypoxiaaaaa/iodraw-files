@@ -31,6 +31,9 @@
         <mxCell id="RSvEaK3DiKo327R6VXct-18" value="天气状况" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="RSvEaK3DiKo327R6VXct-2">
           <mxGeometry x="136.5" y="120" width="107" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RSvEaK3DiKo327R6VXct-19" value="融合预测" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="RSvEaK3DiKo327R6VXct-2">
+          <mxGeometry x="250" y="120" width="107" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="RSvEaK3DiKo327R6VXct-1" value="" style="group;fontSize=15;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-840" y="240" width="380" height="280" as="geometry" />
         </mxCell>
