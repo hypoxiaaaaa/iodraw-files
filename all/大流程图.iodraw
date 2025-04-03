@@ -13,6 +13,15 @@
         <mxCell id="3zW76zUc4abTS6v-kVaw-15" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;基于多模态信息的交通流预测&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=15;" parent="RSvEaK3DiKo327R6VXct-2" vertex="1">
           <mxGeometry width="380" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RSvEaK3DiKo327R6VXct-13" value="瞬时信息建模" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="RSvEaK3DiKo327R6VXct-2">
+          <mxGeometry x="20" y="130" width="107" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RSvEaK3DiKo327R6VXct-14" value="复合图结构" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="RSvEaK3DiKo327R6VXct-2">
+          <mxGeometry x="150" y="130" width="107" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RSvEaK3DiKo327R6VXct-15" value="复合图结构" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="RSvEaK3DiKo327R6VXct-2">
+          <mxGeometry x="250" y="200" width="107" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="RSvEaK3DiKo327R6VXct-1" value="" style="group;fontSize=15;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-840" y="240" width="380" height="280" as="geometry" />
         </mxCell>
@@ -293,9 +302,6 @@
         </mxCell>
         <mxCell id="dYjBStF2WvQ0KFqMAK-T-28" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;瞬时事件与天气状况&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="-481" y="172.5" width="171" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="RSvEaK3DiKo327R6VXct-13" value="复合图结构" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="-810" y="380" width="107" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
