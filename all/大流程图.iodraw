@@ -14,7 +14,7 @@
           <mxGeometry width="380" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RSvEaK3DiKo327R6VXct-13" value="瞬时信息建模" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="RSvEaK3DiKo327R6VXct-2">
-          <mxGeometry x="20" y="130" width="107" height="60" as="geometry" />
+          <mxGeometry x="20" y="190" width="107" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RSvEaK3DiKo327R6VXct-14" value="天气信息建模" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="RSvEaK3DiKo327R6VXct-2">
           <mxGeometry x="150" y="130" width="107" height="60" as="geometry" />
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="RSvEaK3DiKo327R6VXct-16" value="连续时空复合图&lt;br style=&quot;font-size: 15px;&quot;&gt;常微分方程网络" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="RSvEaK3DiKo327R6VXct-2">
           <mxGeometry x="110" y="70" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RSvEaK3DiKo327R6VXct-17" value="瞬时信息建模" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="RSvEaK3DiKo327R6VXct-2">
+          <mxGeometry x="20" y="120" width="107" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RSvEaK3DiKo327R6VXct-1" value="" style="group;fontSize=15;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-840" y="240" width="380" height="280" as="geometry" />
