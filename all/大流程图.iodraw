@@ -589,10 +589,10 @@
           <mxGeometry x="-800.77" y="944.87" width="142.42" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RSvEaK3DiKo327R6VXct-227" value="交通管控" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="-127.06000000000002" y="984.87" width="90" height="40" as="geometry" />
+          <mxGeometry x="-127.07000000000002" y="976.37" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RSvEaK3DiKo327R6VXct-228" value="交通流预测" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="-289.95" y="984.87" width="90" height="40" as="geometry" />
+          <mxGeometry x="-271" y="976.37" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RSvEaK3DiKo327R6VXct-269" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RSvEaK3DiKo327R6VXct-229" target="RSvEaK3DiKo327R6VXct-262">
           <mxGeometry relative="1" as="geometry" />
