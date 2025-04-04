@@ -343,10 +343,10 @@
         <mxCell id="RSvEaK3DiKo327R6VXct-79" value="信息融合" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="330.4978947368421" y="125.5" width="77.89473684210526" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RSvEaK3DiKo327R6VXct-80" value="连续时空&lt;font face=&quot;Times New Roman&quot;&gt;ODE&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="RSvEaK3DiKo327R6VXct-80" value="连续时空&lt;font face=&quot;Times New Roman&quot;&gt;ODE&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="199" y="695" width="97.36842105263158" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RSvEaK3DiKo327R6VXct-81" value="复合图结构" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="RSvEaK3DiKo327R6VXct-81" value="复合图结构" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="88.52789473684211" y="695" width="97.36842105263158" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RSvEaK3DiKo327R6VXct-83" value="空间" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
@@ -355,8 +355,8 @@
         <mxCell id="RSvEaK3DiKo327R6VXct-82" value="时间" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="164.97157894736847" y="783" width="77.89473684210526" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RSvEaK3DiKo327R6VXct-84" value="高阶信息集成" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="325.23473684210524" y="695" width="97.36842105263158" height="40" as="geometry" />
+        <mxCell id="RSvEaK3DiKo327R6VXct-84" value="高阶信息集成" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="314.72473684210524" y="695" width="97.36842105263158" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RSvEaK3DiKo327R6VXct-85" value="连续时空复合图常微分方程网络" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="135.89" y="620" width="252.89" height="40" as="geometry" />
