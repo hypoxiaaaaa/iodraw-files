@@ -494,7 +494,7 @@
           <mxGeometry x="969.9778947368421" y="44.5" width="97.36842105263158" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RSvEaK3DiKo327R6VXct-177" value="天气状况" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1093.1905263157896" y="132.5" width="77.89473684210526" height="40" as="geometry" />
+          <mxGeometry x="1095" y="132.5" width="77.89473684210526" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RSvEaK3DiKo327R6VXct-178" value="瞬时事件" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="993.4715789473686" y="132.5" width="77.89473684210526" height="40" as="geometry" />
@@ -518,7 +518,7 @@
           <mxGeometry x="1196.1705263157896" y="132.5" width="77.89473684210526" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RSvEaK3DiKo327R6VXct-185" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.5209166283700976;arrowSize=0.43382397819967766;fillColor=#b1ddf0;strokeColor=#10739e;direction=north;" vertex="1" parent="1">
-          <mxGeometry x="1119.3600000000001" y="96.63" width="25.55" height="24.87" as="geometry" />
+          <mxGeometry x="1122" y="96.63" width="25.55" height="24.87" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
