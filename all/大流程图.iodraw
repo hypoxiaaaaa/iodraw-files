@@ -17,7 +17,7 @@
           <mxGeometry width="370" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-69" value="连续时空复合图&lt;br style=&quot;font-size: 15px;&quot;&gt;常微分方程网络" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;" parent="RSvEaK3DiKo327R6VXct-1" vertex="1">
-          <mxGeometry x="107.10526315789474" y="76" width="155.78947368421052" height="40" as="geometry" />
+          <mxGeometry x="107.11" y="76" width="252.89" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RSvEaK3DiKo327R6VXct-3" value="复合图结构" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;" vertex="1" parent="RSvEaK3DiKo327R6VXct-1">
           <mxGeometry x="12.657894736842106" y="130" width="97.36842105263158" height="50" as="geometry" />
