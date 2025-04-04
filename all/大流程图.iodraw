@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="piCVT0GnAEzMvJrsj3AD" name="Page-1">
-    <mxGraphModel dx="4096" dy="2815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3398" dy="2345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,36 +12,6 @@
         </mxCell>
         <mxCell id="RSvEaK3DiKo327R6VXct-105" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=50;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="80.62" y="768" width="389.38" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="RSvEaK3DiKo327R6VXct-1" value="" style="group;fontSize=15;fontFamily=宋体;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-840" y="310" width="780" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-7" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Comic Sans MS;strokeColor=#7193c2;" parent="RSvEaK3DiKo327R6VXct-1" vertex="1">
-          <mxGeometry x="-9.74" y="-20" width="789.74" height="320" as="geometry" />
-        </mxCell>
-        <mxCell id="dYjBStF2WvQ0KFqMAK-T-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=15;" parent="RSvEaK3DiKo327R6VXct-1" vertex="1">
-          <mxGeometry width="370" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="dYjBStF2WvQ0KFqMAK-T-2" value="基于时空数据的交通流预测" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=15;" parent="RSvEaK3DiKo327R6VXct-1" vertex="1">
-          <mxGeometry width="370" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-69" value="连续时空复合图常微分方程网络" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;" parent="RSvEaK3DiKo327R6VXct-1" vertex="1">
-          <mxGeometry x="58.55" y="60" width="252.89" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="RSvEaK3DiKo327R6VXct-3" value="复合图结构" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;" vertex="1" parent="RSvEaK3DiKo327R6VXct-1">
-          <mxGeometry x="12.657894736842106" y="130" width="97.36842105263158" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="RSvEaK3DiKo327R6VXct-4" value="高阶信息集成" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;" vertex="1" parent="RSvEaK3DiKo327R6VXct-1">
-          <mxGeometry x="262.89473684210526" y="130" width="97.36842105263158" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="RSvEaK3DiKo327R6VXct-5" value="连续时空ODE" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;" vertex="1" parent="RSvEaK3DiKo327R6VXct-1">
-          <mxGeometry x="136.31578947368422" y="130" width="97.36842105263158" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="RSvEaK3DiKo327R6VXct-20" value="空间" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;" vertex="1" parent="RSvEaK3DiKo327R6VXct-1">
-          <mxGeometry x="214.21052631578948" y="220" width="77.89473684210526" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="RSvEaK3DiKo327R6VXct-37" value="时间" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;" vertex="1" parent="RSvEaK3DiKo327R6VXct-1">
-          <mxGeometry x="87.63157894736842" y="220" width="77.89473684210526" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-68" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="-840" y="-50" width="770" height="130" as="geometry" />
@@ -315,15 +285,6 @@
         </mxCell>
         <mxCell id="RSvEaK3DiKo327R6VXct-67" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.37284920634920693;arrowSize=0.4946543363066862;fillColor=#b1ddf0;strokeColor=#10739e;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="-484.43" y="220" width="28.87" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RSvEaK3DiKo327R6VXct-68" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-450" y="310" width="370" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="RSvEaK3DiKo327R6VXct-50" value="基于多模态信息的交通流预测" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=15;" vertex="1" parent="RSvEaK3DiKo327R6VXct-68">
-          <mxGeometry width="370" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="RSvEaK3DiKo327R6VXct-49" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=15;" vertex="1" parent="RSvEaK3DiKo327R6VXct-68">
-          <mxGeometry width="370" height="280" as="geometry" />
         </mxCell>
         <mxCell id="RSvEaK3DiKo327R6VXct-73" value="多模态信息融合网络" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="184.44526315789477" y="-24.5" width="155.78947368421052" height="40" as="geometry" />
