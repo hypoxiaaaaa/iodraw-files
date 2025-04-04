@@ -716,6 +716,9 @@
         <mxCell id="RSvEaK3DiKo327R6VXct-311" value="交通仿真" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;fontSize=15;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="-453.77" y="695" width="130" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="RSvEaK3DiKo327R6VXct-312" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.5209166283700976;arrowSize=0.43382397819967766;fillColor=#bac8d3;strokeColor=#23445d;direction=north;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="-179.96000000000004" y="487.12999999999994" width="25.55" height="24.87" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
