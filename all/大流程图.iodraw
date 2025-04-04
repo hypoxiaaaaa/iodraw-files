@@ -47,13 +47,13 @@
           <mxGeometry x="100" y="70" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RSvEaK3DiKo327R6VXct-3" value="复合图结构" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;" vertex="1" parent="RSvEaK3DiKo327R6VXct-1">
-          <mxGeometry x="13" y="130" width="87" height="50" as="geometry" />
+          <mxGeometry x="13" y="130" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RSvEaK3DiKo327R6VXct-4" value="高阶信息集成模块" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;" vertex="1" parent="RSvEaK3DiKo327R6VXct-1">
           <mxGeometry x="243.5" y="200" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RSvEaK3DiKo327R6VXct-5" value="连续时空模块" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;" vertex="1" parent="RSvEaK3DiKo327R6VXct-1">
-          <mxGeometry x="119" y="145" width="110" height="30" as="geometry" />
+        <mxCell id="RSvEaK3DiKo327R6VXct-5" value="连续时空模块" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;aspect=fixed;" vertex="1" parent="RSvEaK3DiKo327R6VXct-1">
+          <mxGeometry x="119" y="145" width="183.33" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-68" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="-840" y="-50" width="770" height="130" as="geometry" />
