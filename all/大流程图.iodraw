@@ -656,13 +656,18 @@
           <mxGeometry x="-645" y="1000.87" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RSvEaK3DiKo327R6VXct-271" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RSvEaK3DiKo327R6VXct-262" target="RSvEaK3DiKo327R6VXct-261">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-435" y="990" />
+              <mxPoint x="-580" y="990" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="RSvEaK3DiKo327R6VXct-262" value="交通仿真" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;fontSize=15;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="-500" y="944.87" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RSvEaK3DiKo327R6VXct-263" value="交通仿真" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;fontSize=15;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="-490" y="1000.87" width="80" height="40" as="geometry" />
+          <mxGeometry x="-475" y="1029.87" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
