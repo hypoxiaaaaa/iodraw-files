@@ -307,7 +307,7 @@
         <mxCell id="RSvEaK3DiKo327R6VXct-79" value="信息融合" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="330.4978947368421" y="125.5" width="77.89473684210526" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RSvEaK3DiKo327R6VXct-80" value="连续时空&lt;font face=&quot;Times New Roman&quot;&gt;ODE&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;flipH=1;" vertex="1" parent="1">
+        <mxCell id="RSvEaK3DiKo327R6VXct-80" value="连续时空&lt;font face=&quot;宋体&quot;&gt;建模&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="252" y="835" width="97.36842105263158" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RSvEaK3DiKo327R6VXct-81" value="复合图结构" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;flipH=1;" vertex="1" parent="1">
