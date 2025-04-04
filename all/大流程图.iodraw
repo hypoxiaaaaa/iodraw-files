@@ -331,11 +331,32 @@
         <mxCell id="RSvEaK3DiKo327R6VXct-68" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-450" y="310" width="370" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="RSvEaK3DiKo327R6VXct-49" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=15;" vertex="1" parent="RSvEaK3DiKo327R6VXct-68">
-          <mxGeometry width="370" height="280" as="geometry" />
-        </mxCell>
         <mxCell id="RSvEaK3DiKo327R6VXct-50" value="基于多模态信息的交通流预测" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=15;" vertex="1" parent="RSvEaK3DiKo327R6VXct-68">
           <mxGeometry width="370" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RSvEaK3DiKo327R6VXct-49" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="43" y="300" width="370" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="RSvEaK3DiKo327R6VXct-73" value="多模态信息融合网络" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-332.89473684210526" y="390" width="155.78947368421052" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RSvEaK3DiKo327R6VXct-74" value="瞬时信息建模" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-427.3421052631579" y="450" width="97.36842105263158" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RSvEaK3DiKo327R6VXct-75" value="信息融合方法" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-177.1052631578948" y="450" width="97.36842105263158" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RSvEaK3DiKo327R6VXct-76" value="天气信息建模" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-303.68421052631584" y="450" width="97.36842105263158" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RSvEaK3DiKo327R6VXct-77" value="天气状况" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-293.9473684210526" y="540" width="77.89473684210526" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RSvEaK3DiKo327R6VXct-78" value="瞬时事件" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-410.7894736842105" y="540" width="77.89473684210526" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RSvEaK3DiKo327R6VXct-79" value="信息融合" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-186.84210526315792" y="540" width="77.89473684210526" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
