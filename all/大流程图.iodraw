@@ -212,7 +212,7 @@
           <mxGeometry x="-940" y="270" width="80" height="280" as="geometry" />
         </mxCell>
         <mxCell id="dYjBStF2WvQ0KFqMAK-T-5" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;交&lt;br&gt;通&lt;br&gt;管&lt;br&gt;控&lt;br&gt;研&lt;br&gt;究&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#eeeeee;strokeColor=#36393d;fontFamily=宋体;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="-930" y="560" width="80" height="280" as="geometry" />
+          <mxGeometry x="-940" y="580" width="80" height="280" as="geometry" />
         </mxCell>
         <mxCell id="dYjBStF2WvQ0KFqMAK-T-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=15;" parent="1" source="dYjBStF2WvQ0KFqMAK-T-6" target="dYjBStF2WvQ0KFqMAK-T-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -314,7 +314,7 @@
           <mxGeometry x="-840" y="580" width="770" height="260" as="geometry" />
         </mxCell>
         <mxCell id="RSvEaK3DiKo327R6VXct-59" value="基于时空数据的交通流预测" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="-840" y="580" width="380" height="60" as="geometry" />
+          <mxGeometry x="-840" y="580" width="770" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
