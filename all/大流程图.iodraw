@@ -274,6 +274,9 @@
         <mxCell id="RSvEaK3DiKo327R6VXct-59" value="基于时空数据的交通流预测" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-840" y="650" width="890" height="43.42" as="geometry" />
         </mxCell>
+        <mxCell id="RSvEaK3DiKo327R6VXct-62" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;arrowWidth=0.40941320082720156;arrowSize=0.3137264476102928;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="-900" y="419.58" width="50" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="RSvEaK3DiKo327R6VXct-63" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;arrowWidth=0.40941320082720156;arrowSize=0.3137264476102928;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="-900" y="753" width="50" height="40" as="geometry" />
         </mxCell>
@@ -597,6 +600,39 @@
         </mxCell>
         <mxCell id="RSvEaK3DiKo327R6VXct-234" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.5077690662202372;arrowSize=0.6035182344499943;fillColor=#b1ddf0;strokeColor=#10739e;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="-179.43000000000006" y="245" width="28.87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RSvEaK3DiKo327R6VXct-238" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;endArrow=block;endFill=1;" edge="1" source="RSvEaK3DiKo327R6VXct-239" target="RSvEaK3DiKo327R6VXct-243" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RSvEaK3DiKo327R6VXct-239" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;数据与&lt;br style=&quot;font-size: 16px;&quot;&gt;相关知识&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#eeeeee;strokeColor=#36393d;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1420" y="140" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RSvEaK3DiKo327R6VXct-240" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;endArrow=block;endFill=1;" edge="1" source="RSvEaK3DiKo327R6VXct-241" target="RSvEaK3DiKo327R6VXct-239" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RSvEaK3DiKo327R6VXct-241" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;绪论&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#eeeeee;strokeColor=#36393d;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1420" y="-20" width="80" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="RSvEaK3DiKo327R6VXct-242" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;endArrow=block;endFill=1;" edge="1" source="RSvEaK3DiKo327R6VXct-243" target="RSvEaK3DiKo327R6VXct-244" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RSvEaK3DiKo327R6VXct-243" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;交通流&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;预测&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#eeeeee;strokeColor=#36393d;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1420" y="290" width="80" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="RSvEaK3DiKo327R6VXct-244" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;交通&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;管&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;控&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;研&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;究&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#eeeeee;strokeColor=#36393d;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1420" y="651.39" width="80" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="RSvEaK3DiKo327R6VXct-245" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;arrowWidth=0.40941320082720156;arrowSize=0.3137264476102928;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="-1330" y="753" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RSvEaK3DiKo327R6VXct-246" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;arrowWidth=0.40941320082720156;arrowSize=0.3137264476102928;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="-1330" y="419.58" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RSvEaK3DiKo327R6VXct-247" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;arrowWidth=0.40941320082720156;arrowSize=0.3137264476102928;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="-1330" y="175.5" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RSvEaK3DiKo327R6VXct-248" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;arrowWidth=0.40941320082720156;arrowSize=0.3137264476102928;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="-1330" y="25" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
