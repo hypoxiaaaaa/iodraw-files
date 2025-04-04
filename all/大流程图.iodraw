@@ -337,6 +337,9 @@
         <mxCell id="RSvEaK3DiKo327R6VXct-56" value="瞬时事件" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;" vertex="1" parent="RSvEaK3DiKo327R6VXct-48">
           <mxGeometry x="30" y="220" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="RSvEaK3DiKo327R6VXct-57" value="信息融合" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;" vertex="1" parent="RSvEaK3DiKo327R6VXct-48">
+          <mxGeometry x="260" y="220" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
