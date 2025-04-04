@@ -310,8 +310,32 @@
         <mxCell id="RSvEaK3DiKo327R6VXct-23" value="相关模型与理论" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;align=center;" vertex="1" parent="1">
           <mxGeometry x="-270" y="152.5" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="RSvEaK3DiKo327R6VXct-47" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="-840" y="280" width="380" height="280" as="geometry" />
+        <mxCell id="RSvEaK3DiKo327R6VXct-48" value="" style="group;fontSize=15;fontFamily=宋体;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-630" y="560" width="380" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="RSvEaK3DiKo327R6VXct-49" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=15;" vertex="1" parent="RSvEaK3DiKo327R6VXct-48">
+          <mxGeometry width="380" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="RSvEaK3DiKo327R6VXct-50" value="基于时空数据的交通流预测" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=15;" vertex="1" parent="RSvEaK3DiKo327R6VXct-48">
+          <mxGeometry width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RSvEaK3DiKo327R6VXct-51" value="连续时空复合图&lt;br style=&quot;font-size: 15px;&quot;&gt;常微分方程网络" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;" vertex="1" parent="RSvEaK3DiKo327R6VXct-48">
+          <mxGeometry x="110" y="70" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RSvEaK3DiKo327R6VXct-52" value="复合图结构" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;" vertex="1" parent="RSvEaK3DiKo327R6VXct-48">
+          <mxGeometry x="13" y="130" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RSvEaK3DiKo327R6VXct-53" value="高阶信息集成" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;" vertex="1" parent="RSvEaK3DiKo327R6VXct-48">
+          <mxGeometry x="270" y="130" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RSvEaK3DiKo327R6VXct-54" value="连续时空ODE" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;" vertex="1" parent="RSvEaK3DiKo327R6VXct-48">
+          <mxGeometry x="140" y="130" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RSvEaK3DiKo327R6VXct-55" value="空间" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;" vertex="1" parent="RSvEaK3DiKo327R6VXct-48">
+          <mxGeometry x="220" y="220" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RSvEaK3DiKo327R6VXct-56" value="时间" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;fontSize=15;" vertex="1" parent="RSvEaK3DiKo327R6VXct-48">
+          <mxGeometry x="90" y="220" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
