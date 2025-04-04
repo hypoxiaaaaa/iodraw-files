@@ -356,13 +356,19 @@
           <mxGeometry x="135.89" y="620" width="252.89" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RSvEaK3DiKo327R6VXct-86" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-440" y="320" width="370" height="280" as="geometry" />
+          <mxGeometry x="510" y="-60" width="370" height="280" as="geometry" />
         </mxCell>
         <mxCell id="RSvEaK3DiKo327R6VXct-87" value="基于多模态信息的交通流预测" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=15;" vertex="1" parent="RSvEaK3DiKo327R6VXct-86">
           <mxGeometry width="370" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RSvEaK3DiKo327R6VXct-88" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=15;" vertex="1" parent="RSvEaK3DiKo327R6VXct-86">
           <mxGeometry width="370" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="RSvEaK3DiKo327R6VXct-89" value="基于时空数据的交通流预测" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="530" y="570" width="370" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RSvEaK3DiKo327R6VXct-90" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="530" y="570" width="370" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
