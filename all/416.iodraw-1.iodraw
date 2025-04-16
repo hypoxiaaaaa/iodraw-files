@@ -362,8 +362,8 @@
         <mxCell id="QmH9W-4ZcCb3CwM6PC3c-63" value="&lt;font face=&quot;宋体&quot; color=&quot;#000000&quot;&gt;功能语义图结构数据输入&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FEFAE0;container=0;" parent="QmH9W-4ZcCb3CwM6PC3c-1" vertex="1">
           <mxGeometry x="41.61999999999989" y="288.2399999999998" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QmH9W-4ZcCb3CwM6PC3c-64" value="&lt;font face=&quot;宋体&quot; color=&quot;#000000&quot;&gt;地理信息图结构数据输入&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FEFAE0;container=0;" parent="QmH9W-4ZcCb3CwM6PC3c-1" vertex="1">
-          <mxGeometry x="41.61999999999989" width="160" height="30" as="geometry" />
+        <mxCell id="QmH9W-4ZcCb3CwM6PC3c-64" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot; color=&quot;#000000&quot;&gt;地理信息图结构数据输入&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FEFAE0;container=0;" parent="QmH9W-4ZcCb3CwM6PC3c-1" vertex="1">
+          <mxGeometry x="31.61999999999989" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QmH9W-4ZcCb3CwM6PC3c-65" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fillColor=#ffcd28;strokeColor=#FFE599;gradientColor=#ffa500;container=0;" parent="QmH9W-4ZcCb3CwM6PC3c-1" vertex="1">
           <mxGeometry x="769.06" y="572" width="20" height="20" as="geometry" />
