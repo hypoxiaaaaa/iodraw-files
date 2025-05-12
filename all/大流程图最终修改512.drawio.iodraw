@@ -1081,7 +1081,7 @@
           <mxGeometry x="1525.56" y="115.70000000000005" width="28.87" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yri1-s1T7acdTR3RyVIZ-308" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.5077690662202372;arrowSize=0.6035182344499943;fillColor=#b1ddf0;strokeColor=#10739e;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="1970.57" y="115.70000000000005" width="28.87" height="60" as="geometry" />
+          <mxGeometry x="1750.57" y="108.20000000000005" width="28.87" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yri1-s1T7acdTR3RyVIZ-309" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.5077690662202372;arrowSize=0.6035182344499943;fillColor=#b1ddf0;strokeColor=#10739e;rotation=90;direction=north;" vertex="1" parent="1">
           <mxGeometry x="1735" y="259.70000000000005" width="60" height="30.82" as="geometry" />
