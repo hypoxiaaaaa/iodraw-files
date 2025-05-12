@@ -486,13 +486,258 @@
           <mxGeometry x="878.2" y="-839.3" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yri1-s1T7acdTR3RyVIZ-84" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 15px;&quot;&gt;交通流预测模型&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="260" y="-518.3" width="130" height="30" as="geometry" />
+          <mxGeometry x="259" y="-518.3" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yri1-s1T7acdTR3RyVIZ-85" value="&lt;p style=&quot;line-height: 110%;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 15px;&quot;&gt;引&lt;br&gt;入&lt;br&gt;外&lt;br&gt;部&lt;br&gt;信&lt;br&gt;息&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="601.0000000000001" y="-670" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="yri1-s1T7acdTR3RyVIZ-86" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;交通流预测模型&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="877.2" y="-518.3" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-87" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-473.59999999999997" width="890" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;endArrow=block;endFill=1;" edge="1" parent="1" source="yri1-s1T7acdTR3RyVIZ-89" target="yri1-s1T7acdTR3RyVIZ-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-89" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;数据与&lt;br style=&quot;font-size: 16px;&quot;&gt;相关知识&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#eeeeee;strokeColor=#36393d;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-474.3" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;endArrow=block;endFill=1;" edge="1" parent="1" source="yri1-s1T7acdTR3RyVIZ-91" target="yri1-s1T7acdTR3RyVIZ-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-91" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;交通流&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;预测&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#eeeeee;strokeColor=#36393d;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-324.3" width="80" height="290.7" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-92" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;交通&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;管&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;控&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;研&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;究&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#eeeeee;strokeColor=#36393d;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1.3800000000000523" width="80" height="235.02" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-93" value="数据集介绍" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="312.94000000000005" y="-430.59999999999997" width="140" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-94" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;endSize=4;" edge="1" parent="1" source="yri1-s1T7acdTR3RyVIZ-98" target="yri1-s1T7acdTR3RyVIZ-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-95" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;endSize=4;" edge="1" parent="1" source="yri1-s1T7acdTR3RyVIZ-98" target="yri1-s1T7acdTR3RyVIZ-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-96" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;endSize=4;" edge="1" parent="1" source="yri1-s1T7acdTR3RyVIZ-98" target="yri1-s1T7acdTR3RyVIZ-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-97" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;endSize=4;" edge="1" parent="1" source="yri1-s1T7acdTR3RyVIZ-98" target="yri1-s1T7acdTR3RyVIZ-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-98" value="交通流特性" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;fontSize=15;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-430.59999999999997" width="140" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-99" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;时间特性&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;flipH=1;flipV=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="697" y="-438.09999999999997" width="93" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-100" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;空间特性&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;flipH=1;flipV=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="697" y="-466.09999999999997" width="93" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-101" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;瞬时事件&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="697" y="-411.09999999999997" width="93" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-102" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;天气状况&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="697" y="-383.59999999999997" width="93" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-103" value="相关模型与理论" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;fontSize=15;align=center;" vertex="1" parent="1">
+          <mxGeometry x="850" y="-431.09999999999997" width="140" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-104" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="210" y="0.6899999999999977" width="890" height="235.71" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-105" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;基于深度学习交通流预测方法的交通管控研究&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="210" y="0.6899999999999977" width="890" height="43.42" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-106" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="209" y="-323.59999999999997" width="430" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-107" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=15;container=0;" vertex="1" parent="yri1-s1T7acdTR3RyVIZ-106">
+          <mxGeometry width="430" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-108" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;基于时空数据的交通流预测&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=15;container=0;" vertex="1" parent="yri1-s1T7acdTR3RyVIZ-106">
+          <mxGeometry width="430" height="43.42" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-109" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=50;dashed=1;dashPattern=8 8;container=0;" vertex="1" parent="yri1-s1T7acdTR3RyVIZ-106">
+          <mxGeometry x="20.62" y="118.80903225806452" width="390" height="74.83870967741936" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-110" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.5209166283700976;arrowSize=0.43382397819967766;fillColor=#f5f5f5;strokeColor=#666666;direction=south;fontColor=#333333;container=0;" vertex="1" parent="yri1-s1T7acdTR3RyVIZ-106">
+          <mxGeometry x="202.53" y="100.1" width="25.55" height="19.9" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-111" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=50;dashed=1;dashPattern=8 8;container=0;" vertex="1" parent="yri1-s1T7acdTR3RyVIZ-106">
+          <mxGeometry x="20.62" y="210.78999999999996" width="389.38" height="66.61" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-112" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.5209166283700976;arrowSize=0.43382397819967766;fillColor=#bac8d3;strokeColor=#23445d;direction=north;container=0;" vertex="1" parent="yri1-s1T7acdTR3RyVIZ-106">
+          <mxGeometry x="104.37" y="191.64548387096764" width="25.55" height="23.265483870967746" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-113" value="连续时空建模" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;fontSize=15;flipH=1;container=0;" vertex="1" parent="yri1-s1T7acdTR3RyVIZ-106">
+          <mxGeometry x="142.62" y="137.51870967741928" width="97.36842105263158" height="37.41935483870968" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-114" value="复合图结构" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;fontSize=15;flipH=1;container=0;" vertex="1" parent="yri1-s1T7acdTR3RyVIZ-106">
+          <mxGeometry x="29.147894736842087" y="137.51870967741928" width="97.36842105263158" height="37.41935483870968" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-115" value="时间" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;fontSize=15;container=0;" vertex="1" parent="yri1-s1T7acdTR3RyVIZ-106">
+          <mxGeometry x="234.5505263157895" y="226.9512903225806" width="77.89473684210526" height="37.41935483870968" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-116" value="空间" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;fontSize=15;container=0;" vertex="1" parent="yri1-s1T7acdTR3RyVIZ-106">
+          <mxGeometry x="78.20157894736849" y="226.9512903225806" width="77.89473684210526" height="37.41935483870968" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-117" value="高阶信息集成" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;fontSize=15;flipH=1;container=0;" vertex="1" parent="yri1-s1T7acdTR3RyVIZ-106">
+          <mxGeometry x="255.34473684210525" y="137.51870967741928" width="97.36842105263158" height="37.41935483870968" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-118" value="连续时空复合图常微分方程网络" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;fontSize=15;container=0;" vertex="1" parent="yri1-s1T7acdTR3RyVIZ-106">
+          <mxGeometry x="88.55999999999995" y="62.67741935483866" width="252.89" height="37.41935483870968" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-119" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.5209166283700976;arrowSize=0.43382397819967766;fillColor=#bac8d3;strokeColor=#23445d;direction=north;container=0;" vertex="1" parent="yri1-s1T7acdTR3RyVIZ-106">
+          <mxGeometry x="260.7199999999999" y="191.64548387096764" width="25.55" height="23.265483870967746" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-120" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;宋体&quot;&gt;研究&lt;br&gt;思路&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="yri1-s1T7acdTR3RyVIZ-106">
+          <mxGeometry x="354" y="242.5845161290322" width="60" height="28.064516129032256" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-121" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;宋体&quot;&gt;具体&lt;br&gt;实现&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="yri1-s1T7acdTR3RyVIZ-106">
+          <mxGeometry x="354" y="155.29032258064512" width="60" height="28.064516129032256" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-122" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=15;container=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="-323.59999999999997" width="430" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-123" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;基于多模态信息的交通流预测&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=15;container=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="-323.59999999999997" width="430" height="43.42" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-124" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=50;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="691.49" y="-208.59999999999997" width="390" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-125" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.5209166283700976;arrowSize=0.43382397819967766;fillColor=#f5f5f5;strokeColor=#666666;direction=south;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="874.02" y="-224.59999999999997" width="25.55" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-126" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=50;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="692.1100000000001" y="-114.50499999999994" width="389.38" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-127" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.5209166283700976;arrowSize=0.43382397819967766;fillColor=#bac8d3;strokeColor=#23445d;direction=north;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="758.31" y="-136.47000000000008" width="25.55" height="24.87" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-128" value="天气信息建模" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;fontSize=15;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="-192.59999999999997" width="97.36842105263158" height="37.41935483870968" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-129" value="长短期连续时空建模" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;fontSize=15;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="698.81" y="-192.59999999999997" width="151.19" height="37.42" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-130" value="天气状况" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="834.04" y="-99.59999999999997" width="77.89473684210526" height="37.41935483870968" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-131" value="层次化注意力" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;fontSize=15;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="968.0047368421051" y="-192.9600000000001" width="97.36842105263158" height="37.41935483870968" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-132" value="多模态信息融合网络" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="760.05" y="-261.59999999999997" width="252.89" height="37.41935483870968" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-133" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.5209166283700976;arrowSize=0.43382397819967766;fillColor=#bac8d3;strokeColor=#23445d;direction=north;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="961.2100000000003" y="-136.47000000000008" width="25.55" height="24.87" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-134" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;宋体&quot;&gt;研究思路&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1012.94" y="-72.59999999999997" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-135" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;宋体&quot;&gt;具体实现&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1012.94" y="-155.54000000000002" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-136" value="信息融合" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="935.04" y="-99.59999999999997" width="77.89" height="37.41935483870968" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-137" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.5209166283700976;arrowSize=0.43382397819967766;fillColor=#bac8d3;strokeColor=#23445d;direction=north;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="860.04" y="-136.47000000000008" width="25.55" height="24.87" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-138" value="瞬时事件" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="732.1415789473685" y="-99.59999999999997" width="77.89473684210526" height="37.41935483870968" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-139" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.5077690662202372;arrowSize=0.6035182344499943;fillColor=#b1ddf0;strokeColor=#10739e;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="425.55999999999995" y="-368.59999999999997" width="28.87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-140" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.5077690662202372;arrowSize=0.6035182344499943;fillColor=#b1ddf0;strokeColor=#10739e;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="870.5699999999999" y="-368.59999999999997" width="28.87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-141" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.5077690662202372;arrowSize=0.6035182344499943;fillColor=#b1ddf0;strokeColor=#10739e;rotation=90;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="625" y="-224.59999999999997" width="60" height="30.82" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-142" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.5077690662202372;arrowSize=0.6035182344499943;fillColor=#b1ddf0;strokeColor=#10739e;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="425.55999999999995" y="-48.599999999999966" width="28.87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-143" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.5077690662202372;arrowSize=0.6035182344499943;fillColor=#b1ddf0;strokeColor=#10739e;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="870.5699999999999" y="-48.599999999999966" width="28.87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-144" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=50;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="249.23000000000002" y="59.400000000000034" width="485" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-145" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=50;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="748.03" y="86.40000000000003" width="300" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yri1-s1T7acdTR3RyVIZ-148" target="yri1-s1T7acdTR3RyVIZ-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="yri1-s1T7acdTR3RyVIZ-148" target="yri1-s1T7acdTR3RyVIZ-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-148" value="交叉口交通流预测" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;fontSize=15;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="327.1700000000001" y="137.40000000000003" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yri1-s1T7acdTR3RyVIZ-151" target="yri1-s1T7acdTR3RyVIZ-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yri1-s1T7acdTR3RyVIZ-151" target="yri1-s1T7acdTR3RyVIZ-148">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="289.23" y="121.53000000000003" />
+              <mxPoint x="289.23" y="157.53000000000003" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-151" value="多预测场景构建" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;fontSize=15;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="258.46000000000004" y="81.40000000000003" width="142.42" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-152" value="交通管控" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="921.1999999999999" y="112.90000000000003" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-153" value="交通流预测" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="777.27" y="112.90000000000003" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yri1-s1T7acdTR3RyVIZ-155" target="yri1-s1T7acdTR3RyVIZ-160">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-155" value="交通信号配时策略优化" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;fontSize=15;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="416.23" y="81.40000000000003" width="163" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-156" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;宋体&quot;&gt;研究思路&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="859.56" y="156.39999999999992" width="72.94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-157" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;宋体&quot;&gt;具体实现&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="428.48" y="183.39999999999992" width="126.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-158" value="管控效果评估与应用建议" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;fontSize=15;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="543.23" y="137.40000000000003" width="176" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yri1-s1T7acdTR3RyVIZ-160" target="yri1-s1T7acdTR3RyVIZ-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-160" value="交通仿真" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;fontSize=15;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="596.23" y="81.40000000000003" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-161" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.5209166283700976;arrowSize=0.43382397819967766;fillColor=#bac8d3;strokeColor=#23445d;direction=east;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="725" y="121.63000000000005" width="24.87" height="25.55" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-162" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;时空数据支撑&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305" y="-354.3" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-163" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 15px;&quot;&gt;外部信息支撑&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="908.2" y="-353.59999999999997" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-164" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 15px;&quot;&gt;交通流预测模型&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="289" y="-32.599999999999966" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-165" value="&lt;p style=&quot;line-height: 110%;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 15px;&quot;&gt;引&lt;br&gt;入&lt;br&gt;外&lt;br&gt;部&lt;br&gt;信&lt;br&gt;息&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="631.0000000000001" y="-184.3" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-166" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;交通流预测模型&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="907.2" y="-32.599999999999966" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
