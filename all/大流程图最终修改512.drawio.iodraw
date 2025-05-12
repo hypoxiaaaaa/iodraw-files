@@ -234,8 +234,8 @@
         <mxCell id="RSvEaK3DiKo327R6VXct-313" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.5209166283700976;arrowSize=0.43382397819967766;fillColor=#bac8d3;strokeColor=#23445d;direction=east;flipH=1;" parent="1" vertex="1">
           <mxGeometry x="-865" y="-364.06999999999994" width="24.87" height="25.55" as="geometry" />
         </mxCell>
-        <mxCell id="QXsjhrbVA1DUmWBet5ps-1" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;时空数据支撑&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1205" y="-840" width="110" height="30" as="geometry" />
+        <mxCell id="QXsjhrbVA1DUmWBet5ps-1" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;提供时空数据支撑&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1220" y="-840" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QXsjhrbVA1DUmWBet5ps-2" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 15px;&quot;&gt;多源信息支撑&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-766.4899999999999" y="-840" width="110" height="30" as="geometry" />
