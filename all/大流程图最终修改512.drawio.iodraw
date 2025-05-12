@@ -737,7 +737,7 @@
           <mxGeometry x="601.0000000000001" y="150" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="yri1-s1T7acdTR3RyVIZ-166" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;基于多模态信息的交通流预测模型&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="811.2" y="300.70000000000005" width="250" height="30" as="geometry" />
+          <mxGeometry x="796" y="300.70000000000005" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
