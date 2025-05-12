@@ -237,7 +237,7 @@
         <mxCell id="QXsjhrbVA1DUmWBet5ps-1" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;时空数据支撑&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1205" y="-840" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QXsjhrbVA1DUmWBet5ps-2" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 15px;&quot;&gt;多源信息支撑&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="QXsjhrbVA1DUmWBet5ps-2" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 15px;&quot;&gt;外部信息支撑&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-766.4899999999999" y="-840" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QXsjhrbVA1DUmWBet5ps-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 15px;&quot;&gt;时空预测&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
