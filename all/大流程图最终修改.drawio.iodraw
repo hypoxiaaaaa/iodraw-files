@@ -240,8 +240,8 @@
         <mxCell id="QXsjhrbVA1DUmWBet5ps-2" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;Text&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-821.9699999999999" y="-840" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QXsjhrbVA1DUmWBet5ps-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;预测模型&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1123.27" y="-517.01" width="90" height="30" as="geometry" />
+        <mxCell id="QXsjhrbVA1DUmWBet5ps-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;提供预测模型&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1138.27" y="-517.01" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QXsjhrbVA1DUmWBet5ps-5" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;预测模型&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-836.97" y="-517.01" width="90" height="30" as="geometry" />
