@@ -237,6 +237,9 @@
         <mxCell id="QXsjhrbVA1DUmWBet5ps-1" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;Text&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1128.27" y="-840" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="QXsjhrbVA1DUmWBet5ps-2" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;Text&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-668.8" y="-840" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
