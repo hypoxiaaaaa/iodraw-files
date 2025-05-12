@@ -246,8 +246,8 @@
         <mxCell id="QXsjhrbVA1DUmWBet5ps-5" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;提供预测模型&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-851.97" y="-517.01" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yri1-s1T7acdTR3RyVIZ-1" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;提供预测模型&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-990.77" y="-622.17" width="120" height="30" as="geometry" />
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-1" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;外部信息&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-978.51" y="-622.17" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
