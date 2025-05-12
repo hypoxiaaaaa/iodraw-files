@@ -988,7 +988,7 @@
           <mxGeometry x="1220" y="160" width="80" height="290.7" as="geometry" />
         </mxCell>
         <mxCell id="yri1-s1T7acdTR3RyVIZ-260" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;交通&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;管&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;控&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;研&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;究&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#eeeeee;strokeColor=#36393d;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="486.68000000000006" width="80" height="235.02" as="geometry" />
+          <mxGeometry x="1220" y="493.68000000000006" width="80" height="235.02" as="geometry" />
         </mxCell>
         <mxCell id="yri1-s1T7acdTR3RyVIZ-261" value="数据集介绍" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1412.94" y="53.700000000000045" width="140" height="35" as="geometry" />
@@ -1024,10 +1024,10 @@
           <mxGeometry x="1950" y="53.200000000000045" width="140" height="35" as="geometry" />
         </mxCell>
         <mxCell id="yri1-s1T7acdTR3RyVIZ-272" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="485.99" width="890" height="235.71" as="geometry" />
+          <mxGeometry x="1310" y="492.99" width="890" height="235.71" as="geometry" />
         </mxCell>
         <mxCell id="yri1-s1T7acdTR3RyVIZ-273" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;基于深度学习交通流预测方法的交通管控研究&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="485.99" width="890" height="43.42" as="geometry" />
+          <mxGeometry x="1310" y="492.99" width="890" height="43.42" as="geometry" />
         </mxCell>
         <mxCell id="yri1-s1T7acdTR3RyVIZ-274" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1320" y="160.70000000000005" width="430" height="290" as="geometry" />
@@ -1093,10 +1093,10 @@
           <mxGeometry x="1970.57" y="435.70000000000005" width="28.87" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yri1-s1T7acdTR3RyVIZ-312" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=50;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="1349.23" y="544.7" width="485" height="150" as="geometry" />
+          <mxGeometry x="1349.23" y="551.7" width="485" height="150" as="geometry" />
         </mxCell>
         <mxCell id="yri1-s1T7acdTR3RyVIZ-313" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=50;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="1848.03" y="571.7" width="300" height="100" as="geometry" />
+          <mxGeometry x="1848.03" y="578.7" width="300" height="100" as="geometry" />
         </mxCell>
         <mxCell id="yri1-s1T7acdTR3RyVIZ-314" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yri1-s1T7acdTR3RyVIZ-316" target="yri1-s1T7acdTR3RyVIZ-326">
           <mxGeometry relative="1" as="geometry" />
@@ -1105,7 +1105,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yri1-s1T7acdTR3RyVIZ-316" value="交叉口交通流预测" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;fontSize=15;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="1427.17" y="622.7" width="130" height="40" as="geometry" />
+          <mxGeometry x="1427.17" y="629.7" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yri1-s1T7acdTR3RyVIZ-317" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yri1-s1T7acdTR3RyVIZ-319" target="yri1-s1T7acdTR3RyVIZ-323">
           <mxGeometry relative="1" as="geometry" />
@@ -1113,43 +1113,43 @@
         <mxCell id="yri1-s1T7acdTR3RyVIZ-318" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yri1-s1T7acdTR3RyVIZ-319" target="yri1-s1T7acdTR3RyVIZ-316">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1389.23" y="606.83" />
-              <mxPoint x="1389.23" y="642.83" />
+              <mxPoint x="1389.23" y="613.83" />
+              <mxPoint x="1389.23" y="649.83" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="yri1-s1T7acdTR3RyVIZ-319" value="多预测场景构建" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;fontSize=15;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="1358.46" y="566.7" width="142.42" height="40" as="geometry" />
+          <mxGeometry x="1358.46" y="573.7" width="142.42" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yri1-s1T7acdTR3RyVIZ-320" value="交通管控" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="2021.1999999999998" y="598.2" width="90" height="40" as="geometry" />
+          <mxGeometry x="2021.1999999999998" y="605.2" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yri1-s1T7acdTR3RyVIZ-321" value="交通流预测" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1877.27" y="598.2" width="90" height="40" as="geometry" />
+          <mxGeometry x="1877.27" y="605.2" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yri1-s1T7acdTR3RyVIZ-322" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yri1-s1T7acdTR3RyVIZ-323" target="yri1-s1T7acdTR3RyVIZ-328">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yri1-s1T7acdTR3RyVIZ-323" value="交通信号配时策略优化" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;fontSize=15;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="1516.23" y="566.7" width="163" height="40" as="geometry" />
+          <mxGeometry x="1516.23" y="573.7" width="163" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yri1-s1T7acdTR3RyVIZ-324" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;宋体&quot;&gt;研究思路&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1959.56" y="641.6999999999999" width="72.94" height="30" as="geometry" />
+          <mxGeometry x="1959.56" y="648.6999999999999" width="72.94" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yri1-s1T7acdTR3RyVIZ-325" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;宋体&quot;&gt;具体实现&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1528.48" y="668.6999999999999" width="126.5" height="30" as="geometry" />
+          <mxGeometry x="1528.48" y="675.6999999999999" width="126.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yri1-s1T7acdTR3RyVIZ-326" value="管控效果评估与应用建议" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;fontSize=15;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="1643.23" y="622.7" width="176" height="40" as="geometry" />
+          <mxGeometry x="1643.23" y="629.7" width="176" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yri1-s1T7acdTR3RyVIZ-327" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yri1-s1T7acdTR3RyVIZ-328" target="yri1-s1T7acdTR3RyVIZ-326">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yri1-s1T7acdTR3RyVIZ-328" value="交通仿真" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;fontSize=15;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="1696.23" y="566.7" width="130" height="40" as="geometry" />
+          <mxGeometry x="1696.23" y="573.7" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yri1-s1T7acdTR3RyVIZ-329" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.5209166283700976;arrowSize=0.43382397819967766;fillColor=#bac8d3;strokeColor=#23445d;direction=east;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="1825" y="606.9300000000001" width="24.87" height="25.55" as="geometry" />
+          <mxGeometry x="1825" y="613.9300000000001" width="24.87" height="25.55" as="geometry" />
         </mxCell>
         <mxCell id="yri1-s1T7acdTR3RyVIZ-330" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;时空数据支撑&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1405" y="130" width="110" height="30" as="geometry" />
@@ -1224,7 +1224,7 @@
           <mxGeometry x="62.141578947368544" y="224" width="77.89473684210526" height="37.41935483870968" as="geometry" />
         </mxCell>
         <mxCell id="yri1-s1T7acdTR3RyVIZ-335" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=none;strokeWidth=2;dashed=1;" vertex="1" parent="yri1-s1T7acdTR3RyVIZ-336">
-          <mxGeometry x="-470" y="-10.240000000000009" width="910" height="319.89" as="geometry" />
+          <mxGeometry x="-470" y="-10.24" width="910" height="310.24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
