@@ -970,7 +970,7 @@
           <mxGeometry x="1752.0000000000002" y="-675.3000000000001" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="yri1-s1T7acdTR3RyVIZ-222" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.5077690662202372;arrowSize=0.6035182344499943;fillColor=#b1ddf0;strokeColor=#10739e;rotation=90;direction=north;" vertex="1" parent="1">
-          <mxGeometry x="1742" y="-725.12" width="60" height="30.82" as="geometry" />
+          <mxGeometry x="1780.23" y="-739.3199999999999" width="60" height="30.82" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
