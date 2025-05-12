@@ -842,10 +842,7 @@
           <mxGeometry x="1853.1415789473685" y="-584.6" width="77.89473684210526" height="37.41935483870968" as="geometry" />
         </mxCell>
         <mxCell id="yri1-s1T7acdTR3RyVIZ-220" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.5077690662202372;arrowSize=0.6035182344499943;fillColor=#b1ddf0;strokeColor=#10739e;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="1756.1299999999999" y="-855" width="28.87" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yri1-s1T7acdTR3RyVIZ-221" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.5077690662202372;arrowSize=0.6035182344499943;fillColor=#b1ddf0;strokeColor=#10739e;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="1991.57" y="-853.6" width="28.87" height="60" as="geometry" />
+          <mxGeometry x="1756.1299999999999" y="-853" width="28.87" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yri1-s1T7acdTR3RyVIZ-222" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.5077690662202372;arrowSize=0.6035182344499943;fillColor=#b1ddf0;strokeColor=#10739e;rotation=90;direction=north;" vertex="1" parent="1">
           <mxGeometry x="1744" y="-713.96" width="60" height="30.82" as="geometry" />
@@ -916,7 +913,7 @@
           <mxGeometry x="1846" y="-363.36999999999995" width="24.87" height="25.55" as="geometry" />
         </mxCell>
         <mxCell id="yri1-s1T7acdTR3RyVIZ-243" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;时空数据支撑&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1426" y="-839.3000000000001" width="110" height="30" as="geometry" />
+          <mxGeometry x="1634" y="-840.0000000000001" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yri1-s1T7acdTR3RyVIZ-244" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 15px;&quot;&gt;外部信息支撑&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2029.2" y="-838.6" width="110" height="30" as="geometry" />
