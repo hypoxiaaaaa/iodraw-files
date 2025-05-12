@@ -246,6 +246,9 @@
         <mxCell id="yri1-s1T7acdTR3RyVIZ-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 15px;&quot;&gt;外&lt;br&gt;部&lt;br&gt;信&lt;br&gt;息&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-954.9999999999999" y="-701.24" width="40" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-4" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 15px;&quot;&gt;提供预测模型&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-766.49" y="-519.3" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
