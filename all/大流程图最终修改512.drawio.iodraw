@@ -1211,7 +1211,7 @@
         <mxCell id="yri1-s1T7acdTR3RyVIZ-306" value="瞬时事件" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=宋体;fontSize=15;" vertex="1" parent="yri1-s1T7acdTR3RyVIZ-336">
           <mxGeometry x="62.141578947368544" y="224" width="77.89473684210526" height="37.41935483870968" as="geometry" />
         </mxCell>
-        <mxCell id="yri1-s1T7acdTR3RyVIZ-335" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=none;strokeWidth=2;dashed=1;" vertex="1" parent="yri1-s1T7acdTR3RyVIZ-336">
+        <mxCell id="yri1-s1T7acdTR3RyVIZ-335" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=none;strokeWidth=2;dashed=1;strokeColor=#666666;" vertex="1" parent="yri1-s1T7acdTR3RyVIZ-336">
           <mxGeometry x="-470" y="-10.24" width="910" height="310.24" as="geometry" />
         </mxCell>
       </root>
